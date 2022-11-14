@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <IndenterSettings>
+    <IndentEntireProcedureBody>true</IndentEntireProcedureBody>
+    <IndentEnumTypeAsProcedure>true</IndentEnumTypeAsProcedure>
+    <IndentFirstCommentBlock>true</IndentFirstCommentBlock>
+    <IndentFirstDeclarationBlock>true</IndentFirstDeclarationBlock>
+    <IgnoreEmptyLinesInFirstBlocks>true</IgnoreEmptyLinesInFirstBlocks>
+    <AlignCommentsWithCode>true</AlignCommentsWithCode>
+    <AlignContinuations>true</AlignContinuations>
+    <IgnoreOperatorsInContinuations>true</IgnoreOperatorsInContinuations>
+    <IndentCase>false</IndentCase>
+    <ForceDebugStatementsInColumn1>true</ForceDebugStatementsInColumn1>
+    <ForceDebugPrintInColumn1>true</ForceDebugPrintInColumn1>
+    <ForceDebugAssertInColumn1>true</ForceDebugAssertInColumn1>
+    <ForceStopInColumn1>true</ForceStopInColumn1>
+    <ForceCompilerDirectivesInColumn1>true</ForceCompilerDirectivesInColumn1>
+    <IndentCompilerDirectives>false</IndentCompilerDirectives>
+    <AlignDims>true</AlignDims>
+    <AlignDimColumn>33</AlignDimColumn>
+    <EndOfLineCommentStyle>AlignInColumn</EndOfLineCommentStyle>
+    <EmptyLineHandlingMethod>Ignore</EmptyLineHandlingMethod>
+    <EndOfLineCommentColumnSpaceAlignment>50</EndOfLineCommentColumnSpaceAlignment>
+    <IndentSpaces>2</IndentSpaces>
+    <VerticallySpaceProcedures>true</VerticallySpaceProcedures>
+    <LinesBetweenProcedures>1</LinesBetweenProcedures>
+    <GroupRelatedProperties>true</GroupRelatedProperties>
+  </IndenterSettings>
+</Configuration>
